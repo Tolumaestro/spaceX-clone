@@ -457,6 +457,7 @@ footer ul li a:hover{
     }
 
     .mobile-main-menu .logo{
+        display: block;
         position: absolute;
         z-index: 100;
         top: 30px;
@@ -467,7 +468,7 @@ footer ul li a:hover{
 
 
     .section-inner{
-        bottom: 75px;
+        bottom: 90px;
         left: 20px;
     }
 
