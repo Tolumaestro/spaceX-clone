@@ -465,11 +465,18 @@ footer ul li a:hover{
         transform: translateX(-50%);
     }
 
-
+    .mobile-main-menu ul li{
+        font-size: 14px;
+        padding-bottom: 4px;
+    }
 
     .section-inner{
-        bottom: 90px;
+        bottom: 110px;
         left: 20px;
+    }
+
+    .scroll-arrow{
+        bottom: 70px;
     }
 
     .section-inner h2{
